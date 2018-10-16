@@ -1,6 +1,6 @@
 # Brad Barrish's User Guide
 
-## What are some honest, unfiltered things about you?
+### What are some honest, unfiltered things about you?
 * Good communication is central to having any relationship with me
 * I have an attention problem. While it’s not been professionally diagnosed, I distract easily. I’ve been working on this for a long time and I suspect I will continue to do so until I’m dead.
 * I’m an introvert. This surprises a lot of people because I’m not a stereotypical introvert. I really enjoy one-on-one conversations, even conversations with a few people, but any more than that and I will probably be quieter than usual. 
@@ -9,16 +9,16 @@
 * Very little offends me.
 	
 ## What drives you nuts?
-	* People who can’t communicate well or aren’t willing to try. 
-	* Shortcuts
-	* Quitters
-	* Cheaters
-	* “It's not my job”
-	* Politics
-	* Bureaucracy
-	* Sticklers for rules
-	* Laziness
-	* Ass kissing
+* People who can’t communicate well or aren’t willing to try. 
+* Shortcuts
+* Quitters
+* Cheaters
+* “It's not my job”
+* Politics
+* Bureaucracy
+* Sticklers for rules
+* Laziness
+* Ass kissing
 	
 ## What are your quirks?
 	* I swear a lot, much to my mom’s chagrin
