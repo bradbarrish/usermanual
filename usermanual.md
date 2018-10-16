@@ -1,4 +1,4 @@
-# Brad Barrish's User Guide
+# Brad Barrish's User Manual
 
 ### What are some honest, unfiltered things about you?
 * Good communication is central to having any relationship with me
