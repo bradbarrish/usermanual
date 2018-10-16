@@ -1,12 +1,12 @@
 # Brad Barrish's User Guide
 
 ## What are some honest, unfiltered things about you?
-	* Good communication is central to having any relationship with me
-	* I have an attention problem. While it’s not been professionally diagnosed, I distract easily. I’ve been working on this for a long time and I suspect I will continue to do so until I’m dead.
-	* I’m an introvert. This surprises a lot of people because I’m not a stereotypical introvert. I really enjoy one-on-one conversations, even conversations with a few people, but any more than that and I will probably be quieter than usual. 
-	* I have high expectations of people, which is a reflection of the standards to which I hold myself, which I often feel I cannot meet, which often results in acute cases of Imposter Syndrome and feelings of inferiority
-	* I cry easily
-	* Very little offends me.
+* Good communication is central to having any relationship with me
+* I have an attention problem. While it’s not been professionally diagnosed, I distract easily. I’ve been working on this for a long time and I suspect I will continue to do so until I’m dead.
+* I’m an introvert. This surprises a lot of people because I’m not a stereotypical introvert. I really enjoy one-on-one conversations, even conversations with a few people, but any more than that and I will probably be quieter than usual. 
+* I have high expectations of people, which is a reflection of the standards to which I hold myself, which I often feel I cannot meet, which often results in acute cases of Imposter Syndrome and feelings of inferiority
+* I cry easily
+* Very little offends me.
 	
 ## What drives you nuts?
 	* People who can’t communicate well or aren’t willing to try. 
