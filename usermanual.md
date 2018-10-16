@@ -7,6 +7,7 @@
 * I have high expectations of people, which is a reflection of the standards to which I hold myself, which I often feel I cannot meet, which often results in acute cases of Imposter Syndrome and feelings of inferiority
 * I cry easily
 * Very little offends me.
+* I'm an entreprenuer at heart. 
 	
 ### What drives you nuts?
 * People who can’t communicate well or aren’t willing to try. 
