@@ -5,7 +5,6 @@
 * I have an attention problem. While it’s not been professionally diagnosed, I distract easily. I’ve been working on this for a long time and I suspect I will continue to do so until I’m dead.
 * I’m an introvert. This surprises a lot of people because I’m not a stereotypical introvert. I really enjoy one-on-one conversations, even conversations with a few people, but any more than that and I will probably be quieter than usual. 
 * I have high expectations of people, which is a reflection of the standards to which I hold myself, which I often feel I cannot meet, which often results in acute cases of Imposter Syndrome and feelings of inferiority
-* I cry easily
 * Very little offends me.
 * I'm an entreprenuer at heart. 
 	
@@ -27,7 +26,7 @@
 * My quiet can be misinterpreted as aloofness
 * I get fussy about design-y things and can fixate on minute details
 * I'm open, sometimes unfiltered, blunt, honest and scrappy. I don't like being told “no” and will often relentlessly pursue making a “no” a “yes”. Sometimes these characteristics can be misinterpreted. 
-* I wear almost the same thing every day
+* I wear almost the same thing every day.
 * I hydrate almost exclusively with carbonated water and the first thing I ask for at a restaurant is to remove my glass of non-carbonated water and replace it with carbonated water.
 * I’m known to fact check people during conversations 
 * I ask ‘why’ a lot
@@ -46,7 +45,8 @@
 * Honesty above everything
 * Confidence and strong sense of self
 * Extraordinary attention to details that matter and not sweating the ones that don’t. 
-* What are some things that people might misunderstand about you that you should clarify?
+
+### What are some things that people might misunderstand about you that you should clarify?
 * I expect a lot from others, but I’m patient, understanding and willing to work with someone to improve.
 * I consume a lot of information on a daily basis. I read a lot. I scan even more and I like to share things with others. This is a natural impulse for me. There is no expectation that people comment or even acknowledge my shares, but it’s nice when it happens. 
 
